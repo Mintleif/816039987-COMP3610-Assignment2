@@ -101,9 +101,9 @@ pip install -r requirements.txt
 
 ## Running the Project
 
-Open the notebook and run all cells:
+Open the notebook and change cleaned dataset location. 
 
-jupyter notebook
+Now run all cells.
 
 
 The notebook performs:
@@ -128,4 +128,5 @@ The notebook performs:
 ---
 
 ## Notes
+
 Large datasets are excluded from version control using `.gitignore`.
